@@ -41,21 +41,6 @@
 </a>
 </p>
 
-## Sponsor
-| <img src="https://github.com/bebasid/bebasdns/blob/main/dev/resources/logo/sponsor/atharva.svg#gh-light-mode-only" width="380"> <img src="https://github.com/bebasid/bebasdns/blob/main/dev/resources/logo/sponsor/atharva_white.svg#gh-dark-mode-only" width="380"> |
-|-|
-| <p align="center">[atharva.co.id](https://www.atharva.co.id)</p> |
-
-| ![Atharva Cloud Light Mode](dev/resources/logo-atharva-cloud-black.png#gh-light-mode-only) ![Atharva Cloud Dark Mode](dev/resources/logo-atharva-cloud-whitepng.png#gh-dark-mode-only) |
-| - |
-| <p align="center">[atharva.cloud](https://www.atharva.cloud)</p> |
-
-*A freedom oriented and neutral VPS provider for your need*
-Starting from <b>Rp. **50.000,00**.
-[See the complete VPS packages](https://www.atharva.cloud/index.php?rp=/store/cloud-vm-lite)
-</div>
-
-
 ##
 > [!IMPORTANT]  
 > For ISP that implementing DPI, please read [this](#announcement-concerning-dpi).<br><br>

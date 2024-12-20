@@ -16,13 +16,13 @@
 # Hapus '#' untuk mengaplikasikan secara manual atau gunakan ekstensi untuk mengaplikasikan secara otomatis
 
 # Matikan fitur SafeSearch Google dan Youtube
-# 142.250.4.113 google.com
-# 74.125.68.147 www.google.com
-# 142.250.4.113 google.co.id
-# 74.125.68.147 www.google.co.id
-# 172.253.118.93 www.youtube.com
-# 127.0.0.1 forcesafesearch.google.com
-# 127.0.0.1 restrict.youtube.com
+142.250.4.113 google.com
+74.125.68.147 www.google.com
+142.250.4.113 google.co.id
+74.125.68.147 www.google.co.id
+172.253.118.93 www.youtube.com
+127.0.0.1 forcesafesearch.google.com
+127.0.0.1 restrict.youtube.com
 
 # localhost
 # [MacOS localhost]
@@ -40,8 +40,8 @@
 # ff02::2 ip6-allrouters
 
 # [Android localhost]
-# 127.0.0.1 localhost
-# ::1 ip6-localhost
+127.0.0.1 localhost
+::1 ip6-localhost
 
 # [Windows localhost]
 

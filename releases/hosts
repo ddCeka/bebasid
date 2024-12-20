@@ -564,7 +564,6 @@
 151.101.1.140 strapi.reddit.com
 151.101.1.140 d.reddit.com
 151.101.1.140 meta-api.reddit.com
-151.101.1.140 ads.reddit.com
 151.101.1.140 bettertouchtool.reddit.com
 151.101.1.140 pixel.reddit.com
 151.101.1.140 v21.reddit.com
@@ -1135,7 +1134,6 @@
 199.232.45.140 pa.reddit.com
 199.232.45.140 alb.reddit.com
 199.232.45.140 amp.reddit.com
-199.232.45.140 ads-api.reddit.com
 199.232.45.140 pixel.reddit.com
 199.232.45.140 pay.reddit.com
 199.232.45.140 addons.reddit.com
@@ -2193,7 +2191,6 @@
 88.208.60.136 monitor.xhamster.com
 88.208.60.136 tr.xhamster.com
 88.208.29.180 s-s.xhamster.com
-88.208.29.180 ads.xhamster.com
 88.208.29.180 kds.xhamster.com
 104.18.155.3 es.xhamster.com
 88.208.29.180 images.xhamster.com
@@ -3022,8 +3019,6 @@
 208.100.24.254 s.sankakucomplex.com
 208.100.27.32 cas.sankakucomplex.com
 208.100.24.254 cs.sankakucomplex.com
-208.100.24.252 ads.sankakucomplex.com
-208.100.24.252 www.ads.sankakucomplex.com
 208.100.47.78 images.sankakucomplex.com
 208.100.24.254 is.sankakucomplex.com
 208.100.24.252 chans.sankakucomplex.com
@@ -3037,7 +3032,6 @@
 208.100.24.252 ww.sankakucomplex.com
 208.100.24.252 www.sankakucomplex.com
 208.100.24.252 2fwww.sankakucomplex.com
-208.100.24.247 beta-ads.sankakucomplex.com
 208.100.24.252 matrix.sankakucomplex.com
 208.100.24.254 content.sankakucomplex.com
 208.100.27.32 legacy.sankakucomplex.com
@@ -3148,8 +3142,6 @@
 104.20.41.98 fr.spankbang.com
 104.19.136.100 tr.spankbang.com
 104.20.41.98 tr.spankbang.com
-192.99.44.185 analytics.spankbang.com
-192.99.44.185 analytics.spankbang.site
 104.19.136.100 ms.spankbang.com
 104.20.41.98 ms.spankbang.com
 104.19.136.100 it.spankbang.com
@@ -4946,7 +4938,6 @@
 66.254.112.121 smtp.tr.mofos.com
 66.254.122.20 pics.mofos.com
 66.254.112.121 pcs.mofos.com
-66.254.100.195 ads.mofos.com
 66.254.100.195 feeds.mofos.com
 66.254.112.121 galleries.mofos.com
 66.254.112.121 iframes.mofos.com
@@ -5028,7 +5019,6 @@
 205.185.208.25 static-tour-vz.brazzerscontent.com
 64.88.249.32 emailer1.brazzers.com
 209.239.175.46 emailer2.brazzers.com
-66.254.100.195 ads2.brazzers.com
 66.254.114.210 da.brazzers.com
 66.254.114.210 bgb.brazzers.com
 66.254.114.210 mgb.brazzers.com
@@ -5049,8 +5039,6 @@
 66.254.114.210 dwp.brazzers.com
 66.254.114.210 tour.brazzers.com
 66.254.114.210 btas.brazzers.com
-66.254.100.195 ads.brazzers.com
-66.254.125.89 master.ads.brazzers.com
 64.88.250.156 feeds.brazzers.com
 66.254.114.161 support.brazzers.com
 66.254.114.210 btaw.brazzers.com
@@ -5846,7 +5834,6 @@
 104.18.100.40 frontpage.chaturbate.com
 104.18.100.40 yummyfree.chaturbate.com
 104.18.100.40 camxxxfree.chaturbate.com
-104.18.100.40 adsfree.chaturbate.com
 104.18.100.40 camfourfree.chaturbate.com
 104.18.101.40 feelfree.chaturbate.com
 104.18.101.40 cbfree.chaturbate.com
@@ -6706,7 +6693,6 @@
 195.154.112.57 macne.iwara.tv
 195.154.112.119 yuzuki.iwara.tv
 163.172.86.190 azuki.iwara.tv
-51.15.61.17 ads.staging.iwara.tv
 72.52.83.100 hime.iwara.tv
 
 # [f95zone.to]
@@ -8972,7 +8958,6 @@
 185.56.235.4 hostmaster.media.thisvid.com
 185.56.235.4 mta-sts.media.thisvid.com
 185.56.235.4 hostmaster.thisvid.com
-185.56.235.4 analytics.thisvid.com
 185.56.235.4 mta-sts.thisvid.com
 88.208.3.202 ds4519-2.thisvid.com
 88.208.3.202 ds4519-3.thisvid.com
@@ -9490,7 +9475,6 @@
 
 # [kaotic.com]
 104.18.44.148 www.kaotic.com
-104.18.44.148 ads.kaotic.com
 104.18.44.148 contentv-mh.kaotic.com
 104.18.44.148 content-mh.kaotic.com
 104.18.44.148 forum.kaotic.com
@@ -9505,7 +9489,6 @@
 172.67.148.122 www.contentv-mh.kaotic.com
 172.67.148.122 www.content-mh.kaotic.com
 172.67.148.122 meo.kaotic.com
-172.67.148.122 www.ads.kaotic.com
 151.139.128.11 cdns.kaotic.com
 151.139.128.11 beta.kaotic.com
 151.139.128.11 content-img.kaotic.com
@@ -10448,7 +10431,6 @@
 104.26.8.126 blog.opensubtitles.org
 104.26.8.126 dl.opensubtitles.org
 104.26.9.126 forum.opensubtitles.org
-104.26.9.126 ads2.opensubtitles.org
 104.26.9.126 trac.opensubtitles.org
 104.26.9.126 api.opensubtitles.org
 
@@ -11894,7 +11876,6 @@
 185.59.220.199 cdn.streamable.com
 3.67.153.12 app.streamable.com
 3.67.153.12 uploader.streamable.com
-104.236.15.248 analytics.streamable.com
 185.59.220.194 cdn-east.streamable.com
 185.59.220.194 cdn-w-east.streamable.com
 104.236.15.248 about.streamable.com
@@ -14116,7 +14097,6 @@
 157.90.245.4 api2.mangahub.io
 157.90.245.4 api.mangahub.io
 172.67.68.41 cdn.mangahub.io
-157.90.245.4 ads.mangahub.io
 157.90.245.4 beta.mangahub.io
 
 # [micmicidol.com]
@@ -14796,7 +14776,6 @@
 35.190.214.48 front-lb.octafx.com
 151.106.28.59 payonline.octafx.com
 212.64.158.205 mail.octafx.com
-104.199.85.25 analytics.octafx.com
 
 # [thepiratebay10.org]
 104.31.16.119 thepiratebay10.org
@@ -15007,7 +14986,6 @@
 # [cumlouder.com]
 104.21.48.241 cumlouder.com
 172.67.157.3 www.cumlouder.com
-195.154.154.94 adses.cumlouder.com
 192.200.107.202 descargas2.cumlouder.com
 195.154.154.94 fhges.cumlouder.com
 190.2.141.148 mz.cumlouder.com
@@ -15033,7 +15011,6 @@
 172.67.157.3 th0cdn.cumlouder.com
 195.154.154.94 flv.cumlouder.com
 190.2.144.41 tienda.cumlouder.com
-195.154.154.94 ads.cumlouder.com
 5.9.153.51 composer2.cumlouder.com
 172.67.157.3 fr.cumlouder.com
 190.2.131.87 trailers2.cumlouder.com
@@ -16235,7 +16212,6 @@
 46.182.108.7 nubiles-porn.com
 184.170.255.11 www.nubiles-porn.com
 107.167.27.228 content2a.nubiles-porn.com
-184.170.255.11 ads.nubiles-porn.com
 46.182.108.2 static.nubiles-porn.com
 172.98.95.130 images.nubiles-porn.com
 184.170.255.11 members.nubiles-porn.com
@@ -16554,7 +16530,6 @@
 104.18.35.15 dynamic-assets.coinbase.com
 104.18.42.203 status.custody.coinbase.com
 104.18.35.15 events-service.coinbase.com
-172.64.148.72 app.analytics.coinbase.com
 104.18.42.136 ws-feed.prime.coinbase.com
 104.18.42.136 support.prime.coinbase.com
 104.18.35.15 international.coinbase.com
@@ -16973,7 +16948,6 @@
 185.178.208.187 www.staging.tc.akuma.moe
 185.178.208.187 www.staging.cd.akuma.moe
 185.178.208.187 www.staging-api.akuma.moe
-185.178.208.187 www.staging-analytics.akuma.moe
 185.178.208.187 www.staging.akuma.moe
 185.178.208.187 www.stage.akuma.moe
 185.178.208.187 www.sso-dev.akuma.moe
@@ -18157,7 +18131,6 @@
 185.178.208.187 www.anime.akuma.moe
 185.178.208.187 www.angelandblume.akuma.moe
 185.178.208.187 www.ang.akuma.moe
-185.178.208.187 www.analytics.akuma.moe
 185.178.208.187 www.ams.akuma.moe
 185.178.208.187 www.amberrivyam.akuma.moe
 185.178.208.187 www.amateur.akuma.moe
@@ -18396,7 +18369,6 @@
 185.178.208.187 staging.tc.akuma.moe
 185.178.208.187 staging.cd.akuma.moe
 185.178.208.187 staging-api.akuma.moe
-185.178.208.187 staging-analytics.akuma.moe
 185.178.208.187 staging.akuma.moe
 185.178.208.187 stage.akuma.moe
 185.178.208.187 sso-dev.akuma.moe
@@ -19580,7 +19552,6 @@
 185.178.208.187 anime.akuma.moe
 185.178.208.187 angelandblume.akuma.moe
 185.178.208.187 ang.akuma.moe
-185.178.208.187 analytics.akuma.moe
 185.178.208.187 ams.akuma.moe
 185.178.208.187 amberrivyam.akuma.moe
 185.178.208.187 amateur.akuma.moe
@@ -19772,7 +19743,6 @@
 # [roboforex.com]
 172.66.40.87 roboforex.com
 172.66.43.169 www.roboforex.com
-188.42.195.163 analytics.roboforex.com
 172.66.40.87 blog.roboforex.com
 163.172.52.213 cm.roboforex.com
 172.66.43.169 cn.roboforex.com
@@ -19925,7 +19895,6 @@
 54.159.194.171 translate.hypixel.net
 209.222.114.122 saservers.hypixel.net
 209.222.114.105 webmaster.hypixel.net
-209.222.114.118 analytics.hypixel.net
 209.222.114.102 classroom.hypixel.net
 209.222.114.102 portfolio.hypixel.net
 209.222.114.94 downloads.hypixel.net
@@ -20138,7 +20107,6 @@
 104.17.17.42 dev.hypixel.net
 209.222.114.122 svn.hypixel.net
 209.222.114.86 vle.hypixel.net
-209.222.114.94 ads.hypixel.net
 209.222.114.115 cam.hypixel.net
 209.222.114.118 new.hypixel.net
 209.222.114.93 ns6.hypixel.net
@@ -20395,7 +20363,6 @@
 195.177.237.154 www.test-react.livescore.com
 34.160.23.78 staging-static.livescore.com
 34.111.185.249 prediction-api.livescore.com
-35.186.237.7 preprod-geoads.livescore.com
 34.102.236.96 staging-react.livescore.com
 34.120.39.118 www.ls-bp-gcp.livescore.com
 195.177.237.154 amp.dev-react.livescore.com

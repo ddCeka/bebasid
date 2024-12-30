@@ -512,7 +512,6 @@
 2a04:4e42:48::396 sendbird.reddit.com
 2a04:4e42:48::396 new.reddit.com
 2a04:4e42:48::396 events.reddit.com
-2a04:4e42:48::396 amp.reddit.com
 2a04:4e42:48::396 gql.reddit.com
 2a04:4e42:48::396 gateway.reddit.com
 ### IPv4
@@ -551,7 +550,6 @@
 146.75.113.140 s.reddit.com
 146.75.113.140 gql.reddit.com
 151.101.1.140 buttons.reddit.com
-151.101.1.140 amp.reddit.com
 151.101.1.140 rapi.reddit.com
 151.101.1.140 digg.comold.reddit.com
 151.101.1.140 fn.reddit.com
@@ -1133,7 +1131,6 @@
 199.232.45.140 oa.reddit.com
 199.232.45.140 pa.reddit.com
 199.232.45.140 alb.reddit.com
-199.232.45.140 amp.reddit.com
 199.232.45.140 pixel.reddit.com
 199.232.45.140 pay.reddit.com
 199.232.45.140 addons.reddit.com
@@ -2163,12 +2160,6 @@
 88.208.60.136 sip.xhamster.com
 104.18.156.3 jp.xhamster.com
 88.208.17.21 help.xhamster.com
-88.208.29.180 amp.xhamster.com
-88.208.60.136 de.amp.xhamster.com
-88.208.29.180 nl.amp.xhamster.com
-88.208.60.136 pl.amp.xhamster.com
-88.208.60.136 jp.amp.xhamster.com
-88.208.60.136 ru.amp.xhamster.com
 88.208.60.136 shop.xhamster.com
 88.208.60.136 pop.xhamster.com
 88.208.29.180 ftp.xhamster.com
@@ -4045,7 +4036,6 @@
 13.115.239.20 stg3-lc-admin.dmm.co.jp
 54.150.28.62 inquiry.admin.dmm.co.jp
 35.186.199.193 stg.litevideo.dmm.co.jp
-18.239.50.2 stg.campaign.dmm.co.jp
 34.111.44.90 stg-aquos.tv.dmm.co.jp
 13.227.219.75 player.games.dmm.co.jp
 18.239.69.18 personaldata.dmm.co.jp
@@ -4192,7 +4182,6 @@
 34.111.116.154 dev.video.dmm.co.jp
 157.112.92.45 viera-api.dmm.co.jp
 65.9.86.35 awsimgsrc.dmm.co.jp
-108.156.60.125 campaign.dmm.co.jp
 18.239.95.177 dev.pics.dmm.co.jp
 34.110.160.111 regza.tv.dmm.co.jp
 52.222.139.30 accounts.dmm.co.jp
@@ -6588,10 +6577,6 @@
 # [85porn.com]
 144.217.252.134 85porn.com
 144.217.252.134 www.85porn.com
-
-# [m88.com]
-202.61.65.55 m88.com
-202.61.65.55 www.m88.com
 
 # [asianbookie.com]
 104.24.29.20 asianbookie.com
@@ -9133,10 +9118,6 @@
 173.236.9.27 nudegirls4u.com
 173.236.9.27 www.nudegirls4u.com
 
-# [sbobet.com]
-103.11.40.102 sbobet.com
-103.11.40.102 www.sbobet.com
-
 # [manhwahand.com]
 104.24.115.149 manhwahand.com
 104.24.115.149 www.manhwahand.com
@@ -9493,23 +9474,6 @@
 172.67.172.199 www.sxyprn.com
 172.67.207.58 sxyprn.com
 172.67.207.58 www.sxyprn.com
-
-# [betradar.com]
-3.121.0.67 betradar.com
-3.121.0.67 www.betradar.com
-54.173.37.82 cs.betradar.com
-91.201.212.177 in.betradar.com
-91.201.213.160 mts.betradar.com
-
-# [bet365.com]
-5.226.176.16 bet365.com
-5.226.176.16 www.bet365.com
-5.226.176.16 help.bet365.com
-5.226.176.7 members.bet365.com
-5.226.177.120 casino.bet365.com
-5.226.177.120 games.bet365.com
-5.226.177.120 vegas.bet365.com
-5.226.177.120 poker.bet365.com
 
 # [javcl.com]
 104.26.9.246 javcl.com
@@ -13253,10 +13217,6 @@
 172.67.185.192 indoxxi.com
 172.67.185.192 www.indoxxi.com
 
-# [gg.bet]
-203.29.52.121 gg.bet
-203.29.52.121 www.gg.bet
-
 # [rivalry.com]
 104.18.4.133 rivalry.com
 104.18.4.133 www.rivalry.com
@@ -14797,14 +14757,12 @@
 204.239.14.35 slacker.livexlive.com
 52.41.23.227 edclasvegas.livexlive.com
 52.12.3.53 cms.livexlive.com
-99.86.7.121 ablink.campaigns.livexlive.com
 99.86.7.54 ablink.notifications.livexlive.com
 204.239.14.147 account.livexlive.com
 52.41.23.227 bumbershoot.livexlive.com
 34.218.42.177 artists.livexlive.com
 151.101.2.133 maestro.livexlive.com
 204.239.14.35 slacker.livexlive.com
-149.72.143.171 o2990.abmail.campaigns.livexlive.com
 151.101.2.133 iheartvampireweekend.livexlive.com
 149.72.143.172 o2991.abmail.notifications.livexlive.com
 151.101.2.133 iheartjudahandthelion.livexlive.com
@@ -16582,13 +16540,6 @@
 185.225.113.51 www.batotoo.com
 185.225.113.115 cf.batotoo.com
 
-# [22bet.com]
-94.241.132.4 22bet.com
-94.241.132.4 www.22bet.com
-
-# [22win88.com]
-178.253.47.246 22win88.com
-
 # [edoujin.net]
 ### IPv4
 172.67.200.209 edoujin.net
@@ -17921,7 +17872,6 @@
 185.178.208.187 www.cards.akuma.moe
 185.178.208.187 www.canadiankingwiziwig.akuma.moe
 185.178.208.187 www.canada.akuma.moe
-185.178.208.187 www.campaign.akuma.moe
 185.178.208.187 www.call.akuma.moe
 185.178.208.187 www.calendar.akuma.moe
 185.178.208.187 www.cachandochile.akuma.moe
@@ -19342,7 +19292,6 @@
 185.178.208.187 cards.akuma.moe
 185.178.208.187 canadiankingwiziwig.akuma.moe
 185.178.208.187 canada.akuma.moe
-185.178.208.187 campaign.akuma.moe
 185.178.208.187 call.akuma.moe
 185.178.208.187 calendar.akuma.moe
 185.178.208.187 cachandochile.akuma.moe
@@ -20247,7 +20196,6 @@
 34.149.236.139 gcp-dev-search-api.livescore.com
 195.177.237.154 redirect.dev-react.livescore.com
 34.107.248.104 loadtest-actor-api.livescore.com
-34.36.210.235 amp.loadtest-react.livescore.com
 34.160.208.72 preprod-admin-tool.livescore.com
 34.149.43.234 gcp-dev-media-api.livescore.com
 35.244.236.128 www.preprod-react.livescore.com
@@ -20255,7 +20203,6 @@
 34.120.110.183 prod-push-android.livescore.com
 35.186.235.248 loadtest-team-api.livescore.com
 34.120.43.163 loadtest-push-ios.livescore.com
-35.244.236.128 amp.preprod-react.livescore.com
 34.102.152.99 preprod-media-api.livescore.com
 34.111.53.233 preprod-stats-api.livescore.com
 34.120.121.24 preprod-actor-api.livescore.com
@@ -20280,14 +20227,12 @@
 34.120.65.63 lsm-static-test.livescore.com
 34.149.132.253 gcp-dev-geo-api.livescore.com
 35.242.132.212 monitoring-es-1.livescore.com
-195.177.237.154 amp.test2-react.livescore.com
 35.244.172.179 dev-alpha-react.livescore.com
 34.149.76.43 preprod-gateway.livescore.com
 34.111.203.47 commentary-api.livescore.com
 34.120.55.236 cdn-static-dev.livescore.com
 34.111.240.53 media-push-api.livescore.com
 34.36.210.235 loadtest-react.livescore.com
-195.177.237.154 amp.test-react.livescore.com
 34.98.99.89 ls-int-configs.livescore.com
 35.186.234.22 prod-stats-api.livescore.com
 195.177.237.154 www.test-react.livescore.com
@@ -20295,7 +20240,6 @@
 34.111.185.249 prediction-api.livescore.com
 34.102.236.96 staging-react.livescore.com
 34.120.39.118 www.ls-bp-gcp.livescore.com
-195.177.237.154 amp.dev-react.livescore.com
 34.102.143.132 prod-push-ios.livescore.com
 34.117.137.127 www.media-api.livescore.com
 34.117.246.39 favorites-api.livescore.com
@@ -20356,7 +20300,6 @@
 35.227.219.39 edge.livescore.com
 35.204.9.11 cms.livescore.com
 35.186.243.87 api.livescore.com
-34.117.66.109 amp.livescore.com
 35.186.243.87 wap.livescore.com
 34.117.66.109 www.livescore.com
 35.227.219.39 cdn.livescore.com

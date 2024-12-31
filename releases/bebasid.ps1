@@ -1,4 +1,4 @@
-$url = 'https://raw.githubusercontent.com/bebasid/bebasid/custom/releases/customhosts'
+$url = 'https://raw.githubusercontent.com/ddCeka/bebasid/custom/releases/customhosts'
 $tempPath = "$env:TEMP\hosts"
 $destPath = 'C:\Windows\System32\drivers\etc\hosts'
 

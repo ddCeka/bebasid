@@ -75,7 +75,7 @@ Jika Anda membutuhkan kode sumber BebasID (GUI), silakan kunjungi repo [BebasID-
 
 #### PowerShell - Direkomendasikan
 ```
-Start-Process powershell -ArgumentList "-NoProfile -ExecutionPolicy Bypass -Command `"irm https://raw.githubusercontent.com/bebasid/bebasid/custom/releases/bebasid.ps1 | iex`"" -Verb RunAs -Wait
+Start-Process powershell -ArgumentList "-NoProfile -ExecutionPolicy Bypass -Command `"irm https://raw.githubusercontent.com/ddCeka/bebasid/custom/releases/bebasid.ps1 | iex`"" -Verb RunAs -Wait
 ```
 
 #### BebasHosts Portable

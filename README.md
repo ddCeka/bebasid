@@ -41,21 +41,6 @@
 </a>
 </p>
 
-## Sponsor
-| <img src="https://github.com/bebasid/bebasdns/blob/main/dev/resources/logo/sponsor/atharva.svg#gh-light-mode-only" width="380"> <img src="https://github.com/bebasid/bebasdns/blob/main/dev/resources/logo/sponsor/atharva_white.svg#gh-dark-mode-only" width="380"> |
-|-|
-| <p align="center">[atharva.co.id](https://www.atharva.co.id)</p> |
-
-| ![Atharva Cloud Light Mode](dev/resources/logo-atharva-cloud-black.png#gh-light-mode-only) ![Atharva Cloud Dark Mode](dev/resources/logo-atharva-cloud-whitepng.png#gh-dark-mode-only) |
-| - |
-| <p align="center">[atharva.cloud](https://www.atharva.cloud)</p> |
-
-*Penyedia VPS yang berorientasi pada kebebasan dan netral untuk kebutuhannya.*
-
-Dimulai dari **Rp. 50.000,00**.  
-[Lihat paket langganan VPS selengkapnya](https://www.atharva.cloud/index.php?rp=/store/cloud-vm-lite)
-</div>
-
 ##
 > [!IMPORTANT]  
 > Untuk Provider (ISP) yang memakai DPI, harap baca [ini](#pemberitahuan-tentang-dpi).<br><br>
@@ -90,7 +75,7 @@ Jika Anda membutuhkan kode sumber BebasID (GUI), silakan kunjungi repo [BebasID-
 
 #### PowerShell - Direkomendasikan
 ```
-Start-Process powershell -ArgumentList "-NoProfile -ExecutionPolicy Bypass -Command `"irm https://raw.githubusercontent.com/bebasid/bebasid/master/releases/bebasid.ps1 | iex`"" -Verb RunAs -Wait
+Start-Process powershell -ArgumentList "-NoProfile -ExecutionPolicy Bypass -Command `"irm https://raw.githubusercontent.com/bebasid/bebasid/custom/releases/bebasid.ps1 | iex`"" -Verb RunAs -Wait
 ```
 
 #### BebasHosts Portable

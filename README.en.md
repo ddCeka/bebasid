@@ -49,23 +49,6 @@
 </a>
 </p>
 
-## Sponsor
-
-*A freedom-oriented and neutral VPS provider for your needs.*
-
-| <a href="https://member.atharva.co.id"><img src="https://member.atharva.co.id/assets/img/logo.png" width="380"></a> |
-|-|
-| <p align="center">[atharva.co.id](https://member.atharva.co.id)</p> |
-
-<!--
-| <a href="https://qdei.co">![QDEI Cloud](https://qdei.co/_image?href=%2F_astro%2Fqdei-logo.Dh5viwbv.avif&f=webp)</a> |
-| - |
-| <p align="center">[qdei.co](https://qdei.co)</p> |
-
-Starting from <b>Rp. **50.000,00**.
-[See the complete VPS packages](https://www.atharva.cloud/index.php?rp=/store/cloud-vm-lite)
-//-->
-</div>
 
 
 ##

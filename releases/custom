@@ -10295,15 +10295,8 @@ ff02::2 ip6-allrouters
 104.26.2.8 www.animeidhentai.com
 
 # [kimochi.info]
-172.64.201.32 kimochi.info
-172.64.201.32 www.kimochi.info
-172.64.200.32 kimochi.info
-172.64.200.32 www.kimochi.info
-172.64.137.13 kimochi.info
-172.64.137.13 www.kimochi.info
-172.64.200.32 mail.kimochi.info
-172.67.137.246 mail.kimochi.info
-172.64.200.32 images.kimochi.info
+104.21.75.205 www.kimochi.info
+104.21.75.205 kimochi.info
 
 # [nijicollage.xyz]
 104.31.94.44 nijicollage.xyz
@@ -14010,8 +14003,6 @@ ff02::2 ip6-allrouters
 172.67.192.112 webmail.dlwibudesu.com
 172.67.192.112 webmail.wibudesu.com
 172.67.192.112 www.dlwibudesu.com
-172.67.192.112 www.zonakimochi.info.wibudesu.com
-172.67.192.112 zonakimochi.info.wibudesu.com
 172.67.192.112 carinesia.wibudesu.com
 172.67.192.112 www.carinesia.wibudesu.com
 172.67.192.112 www.zonakimochi.wibudesu.com

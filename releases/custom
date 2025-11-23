@@ -23384,3 +23384,11 @@ ff02::2 ip6-allrouters
 3.170.185.47 www.fansly.com
 52.84.217.93 fansly.com
 3.33.130.190 fasnly.com
+
+# [xasiat.com]
+185.94.237.104 mail.xasiat.com
+185.94.237.104 smtp.xasiat.com
+185.94.237.104 www.xasiat.com
+185.94.237.104 pop.xasiat.com
+185.94.237.104 ftp.xasiat.com
+185.94.237.104 xasiat.com
